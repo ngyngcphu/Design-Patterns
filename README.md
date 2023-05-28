@@ -1,1 +1,1 @@
-# MIPS Simulator
+# DESIGN PATTERNS CPP
