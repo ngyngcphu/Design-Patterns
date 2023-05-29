@@ -7,6 +7,6 @@
 		"outFile": "patterns.js"
     },
 	"files": [
-		"src/creational-patterns/factory-method.ts"
+		"src/creational-patterns/factory-method/typescript/conceptual.ts"
 	]
 }
