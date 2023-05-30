@@ -6,7 +6,8 @@
   "author": "ngyngcphu",
   "license": "MIT",
   "scripts": {
-    "factoryMethod-conceptual": "ts-node src/creational-patterns/factory-method/typescript/conceptual.ts"
+    "factoryMethod-conceptual": "ts-node src/creational-patterns/factory-method/typescript/conceptual.ts",
+    "factoryMethod-memberMarking": "ts-node src/creational-patterns/factory-method/typescript/memberMarking.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",
